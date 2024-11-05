@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Bhuvi Ghosh
+# Hi, I’m Bhuvi Ghosh
 
 ### 🚀 About Me
 I am a passionate and hardworking Computer Science & Engineering (Data Science) student with a keen interest in Artificial Intelligence, Machine Learning, and Computer Vision. I have a solid foundation in Python, data analysis, and deep learning, and I'm experienced in working on real-world projects and research.
