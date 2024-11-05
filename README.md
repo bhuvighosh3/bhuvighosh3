@@ -1,6 +1,7 @@
 # Hi, I’m Bhuvi Ghosh
 
 ### 🚀 About Me
+[![Bhuvi's Skills Banner](https://github-readme-tech-stack.vercel.app/api/cards?stack=python,java,c,c++,html,css,javascript,sql&theme=radical&title=Tech%20Skills)](https://github.com/bhuvighosh3)
 I am a passionate and hardworking Computer Science & Engineering (Data Science) student with a keen interest in Artificial Intelligence, Machine Learning, and Computer Vision. I have a solid foundation in Python, data analysis, and deep learning, and I'm experienced in working on real-world projects and research.
 
 ---
