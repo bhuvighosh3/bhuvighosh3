@@ -1,7 +1,6 @@
 # Hi, I’m Bhuvi Ghosh
 
 ### 🚀 About Me
-[![Bhuvi's Interactive Banner](https://github-readme-stats.vercel.app/api/pin/?username=bhuvighosh3&repo=interactive-banner)](https://github.com/bhuvighosh3/interactive-banner)
 I am a passionate and hardworking Computer Science & Engineering (Data Science) student with a keen interest in Artificial Intelligence, Machine Learning, and Computer Vision. I have a solid foundation in Python, data analysis, and deep learning, and I'm experienced in working on real-world projects and research.
 
 ---
