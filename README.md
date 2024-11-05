@@ -48,8 +48,13 @@ I am a passionate and hardworking Computer Science & Engineering (Data Science) 
 ![MS Excel](https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
+## Stats
+
+![Bhuvi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bhuvighosh3&show_icons=true&theme=radical)
+![Bhuvi's GitHub Streak](https://streak-stats.demolab.com/?user=bhuvighosh3&theme=radical)
+![Bhuvi's GitHub Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhuvighosh3&layout=compact&theme=radical)
+
 ## Contact
 
 - Email: bhuvighosh3@gmail.com
 - LinkedIn: [Bhuvi Ghosh](https://www.linkedin.com/in/bhuvighosh3/)
-- GitHub: [bhuvighosh3](https://github.com/bhuvighosh3)
